@@ -45,6 +45,7 @@
     "react-textarea-autosize": "^8.4.1",
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
+    "swr": "^2.2.2",
     "voy-search": "^0.6.2"
   },
   "devDependencies": {
